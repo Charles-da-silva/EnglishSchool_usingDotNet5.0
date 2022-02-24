@@ -57,6 +57,10 @@ namespace EnglishSchool
             return this.Name;
         }
 
+        public bool ReturnActive()
+        {
+            return this.Active;
+        }
         public EnglishClass ReturnEnglishClass()
         {
             return this.EnglishClass;

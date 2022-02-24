@@ -152,7 +152,9 @@ namespace EnglishSchool
             }
             foreach(var student in list)
             {
-                System.Console.WriteLine("#ID {0}: - {1}", student.ReturnId(), student.ReturnName());
+                var active = student.ReturnActive();
+                
+                System.Console.WriteLine("#ID {0}: - {1} {2}", student.ReturnId(), student.ReturnName(), (active ? "" : " **** Student deactivated"));
             }
             System.Console.WriteLine();            
         }
