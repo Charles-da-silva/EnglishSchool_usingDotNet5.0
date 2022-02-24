@@ -1,0 +1,16 @@
+C:\workspace\English School\EnglishSchool\obj\Debug\net5.0\EnglishSchool.csproj.AssemblyReference.cache
+C:\workspace\English School\EnglishSchool\obj\Debug\net5.0\EnglishSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\English School\EnglishSchool\obj\Debug\net5.0\EnglishSchool.AssemblyInfoInputs.cache
+C:\workspace\English School\EnglishSchool\obj\Debug\net5.0\EnglishSchool.AssemblyInfo.cs
+C:\workspace\English School\EnglishSchool\obj\Debug\net5.0\EnglishSchool.csproj.CoreCompileInputs.cache
+C:\workspace\English School\EnglishSchool\bin\Debug\net5.0\EnglishSchool.exe
+C:\workspace\English School\EnglishSchool\bin\Debug\net5.0\EnglishSchool.deps.json
+C:\workspace\English School\EnglishSchool\bin\Debug\net5.0\EnglishSchool.runtimeconfig.json
+C:\workspace\English School\EnglishSchool\bin\Debug\net5.0\EnglishSchool.runtimeconfig.dev.json
+C:\workspace\English School\EnglishSchool\bin\Debug\net5.0\EnglishSchool.dll
+C:\workspace\English School\EnglishSchool\bin\Debug\net5.0\ref\EnglishSchool.dll
+C:\workspace\English School\EnglishSchool\bin\Debug\net5.0\EnglishSchool.pdb
+C:\workspace\English School\EnglishSchool\obj\Debug\net5.0\EnglishSchool.dll
+C:\workspace\English School\EnglishSchool\obj\Debug\net5.0\ref\EnglishSchool.dll
+C:\workspace\English School\EnglishSchool\obj\Debug\net5.0\EnglishSchool.pdb
+C:\workspace\English School\EnglishSchool\obj\Debug\net5.0\EnglishSchool.genruntimeconfig.cache
