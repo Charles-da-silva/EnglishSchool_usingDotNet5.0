@@ -50,8 +50,8 @@ namespace EnglishSchool
             int userId = int.Parse(Console.ReadLine());
             System.Console.WriteLine();
 
-            var list = repository.List();
-            System.Console.WriteLine(list[userId]);
+            var user = repository.ReturnById(userId);
+            System.Console.WriteLine(user);
         }
 
         private static void DeactivateOrActivate()
